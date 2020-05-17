@@ -1,0 +1,32 @@
+.portrait {
+  height: 100vh;
+  padding: 2px 2px;
+  float: left;
+  width: 50%;
+  background-color: #e3afbc;
+  text-align: right;
+
+  .portrait-text {
+    margin-top: 36vh;
+
+    .description {
+      color: #c28292;
+    }
+    .extra {
+      display: none;
+    }
+
+    .name {
+      color: #5d001e;
+    }
+  }
+}
+@media screen and (min-width: 800px) {
+  .description:hover,
+  .name:hover {
+    .extra {
+      display: inline-block;
+      color: #a76777;
+    }
+  }
+}

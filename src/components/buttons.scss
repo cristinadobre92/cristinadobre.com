@@ -1,0 +1,58 @@
+.buttons {
+  height: 100vh;
+  float: right;
+  width: 50%;
+  background-color: #e3e2df;
+  text-align: left;
+  color: #9a1750;
+
+  .buttons-links {
+    margin-top: 47vh;
+    cursor: pointer;
+
+    a {
+      text-decoration: none;
+      padding: 2px 2px;
+
+      &:link {
+        color: #9a1750;
+        padding: 2px 2px;
+      }
+
+      &:visited {
+        color: #b4004e;
+        padding: 2px 2px;
+      }
+
+      &:focus {
+        color: #9a1750;
+        border-left: 1px solid #9a1750;
+        padding: 2px;
+      }
+
+      &:hover {
+        color: #77103d;
+        border-left: 1px solid #77103d;
+        padding-left: 5px;
+      }
+
+      &:active {
+        color: #4d0a27;
+        border-left: 1px solid #4d0a27;
+        padding: 3px;
+      }
+    }
+
+    .extra {
+      display: none;
+    }
+  }
+}
+@media screen and (min-width: 800px) {
+  .external-link:hover {
+    .extra {
+      display: inline-block;
+      color: #b1afa9;
+    }
+  }
+}

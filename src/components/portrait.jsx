@@ -18,7 +18,7 @@ const Potrait = () => (
       </div>
       <div className="description">
         <span className="extra">
-          since 2017 living here, and more years to come  &nbsp;&nbsp;&nbsp;
+          living outside the city - open to remote work  &nbsp;&nbsp;&nbsp;
         </span>
         prague
       </div>

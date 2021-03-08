@@ -6,9 +6,9 @@ const Potrait = () => (
     <div className="portrait-text">
       <div className="description">
         <span className="extra">
-          self-taught React developer &nbsp;&nbsp;&nbsp;
+          loving iOS dev &nbsp;&nbsp;&nbsp;
         </span>
-        web developer wannabe
+        junior frontend dev
       </div>
       <div className="description">
         <span className="extra">

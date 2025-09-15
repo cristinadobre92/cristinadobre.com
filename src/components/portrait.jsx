@@ -6,19 +6,19 @@ const Potrait = () => (
     <div className="portrait-text">
       <div className="description">
         <span className="extra">
-          loving iOS dev &nbsp;&nbsp;&nbsp;
+          exploring react and react-native too &nbsp;&nbsp;&nbsp;
         </span>
-        junior frontend dev
+        mid iOS dev
       </div>
       <div className="description">
         <span className="extra">
-          native romanian, C1 english, B1 czech &nbsp;&nbsp;&nbsp;
+          native romanian, C1 english, B2 czech &nbsp;&nbsp;&nbsp;
         </span>
-        english, romanian
+        english, czech
       </div>
       <div className="description">
         <span className="extra">
-          living outside the city - open to remote work  &nbsp;&nbsp;&nbsp;
+          living in Benešov, but visiting Prague often  &nbsp;&nbsp;&nbsp;
         </span>
         prague
       </div>

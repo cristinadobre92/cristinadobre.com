@@ -13,7 +13,7 @@ const Buttons = () => (
           github
         </a>
         <span className="extra">
-          &nbsp;&nbsp;&nbsp; here are resting all the self-thought projects
+          &nbsp;&nbsp;&nbsp; here are resting all some projects
         </span>
       </div>
       <div className="external-link">
@@ -40,7 +40,7 @@ const Buttons = () => (
       </div>
       <div className="external-link">
         <a
-          href="https://www.instagram.com/cristina.dobre92"
+          href="https://www.instagram.com/crisdobree"
           target="blank"
           rel="noopener noreferrer"
         >
@@ -50,13 +50,13 @@ const Buttons = () => (
         </span>
       </div><div className="external-link">
         <a
-          href="https://twitter.com/CristinaDobre9"
+          href="https://www.instagram.com/crisdobreart"
           target="blank"
           rel="noopener noreferrer"
         >
-          twitter
+          bits and bobs
         </a><span className="extra">
-          &nbsp;&nbsp;&nbsp; not very active, but i can be found on this link too
+          &nbsp;&nbsp;&nbsp; having a brush-on romance with greenery
         </span>
       </div>
     </div>

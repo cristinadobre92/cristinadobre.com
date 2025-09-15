@@ -18,7 +18,7 @@ const Potrait = () => (
       </div>
       <div className="description">
         <span className="extra">
-          living in Benešov, but visiting Prague often  &nbsp;&nbsp;&nbsp;
+          living in Benešov, but visiting often  &nbsp;&nbsp;&nbsp;
         </span>
         prague
       </div>

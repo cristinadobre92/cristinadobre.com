@@ -13,7 +13,7 @@ const Buttons = () => (
           github
         </a>
         <span className="extra">
-          &nbsp;&nbsp;&nbsp; here are resting all some projects
+          &nbsp;&nbsp;&nbsp; here are resting some projects
         </span>
       </div>
       <div className="external-link">
